@@ -4,7 +4,7 @@
 <br />✨ Learning and Growing...
 <br />🌱 I’m currently learning DSA and MERN Stack Web Development.
 <br />💬 Ask me about DSA/ MERN Stack Web Development.
-<br />💞️ I’m looking to collaborate on the projects related to MERN Stack Web Development.
+<br />👯 I’m looking to collaborate on the projects related to MERN Stack Web Development.
 <br />📫 Contact me by mail - mittalchahat754@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
